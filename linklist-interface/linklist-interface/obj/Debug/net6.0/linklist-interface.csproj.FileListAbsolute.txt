@@ -1,0 +1,15 @@
+C:\Code_Repositories\linklist-interface\linklist-interface\obj\Debug\net6.0\linklist-interface.csproj.AssemblyReference.cache
+C:\Code_Repositories\linklist-interface\linklist-interface\obj\Debug\net6.0\linklist-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code_Repositories\linklist-interface\linklist-interface\obj\Debug\net6.0\linklist-interface.AssemblyInfoInputs.cache
+C:\Code_Repositories\linklist-interface\linklist-interface\obj\Debug\net6.0\linklist-interface.AssemblyInfo.cs
+C:\Code_Repositories\linklist-interface\linklist-interface\obj\Debug\net6.0\linklist-interface.csproj.CoreCompileInputs.cache
+C:\Code_Repositories\linklist-interface\linklist-interface\bin\Debug\net6.0\linklist-interface.exe
+C:\Code_Repositories\linklist-interface\linklist-interface\bin\Debug\net6.0\linklist-interface.deps.json
+C:\Code_Repositories\linklist-interface\linklist-interface\bin\Debug\net6.0\linklist-interface.runtimeconfig.json
+C:\Code_Repositories\linklist-interface\linklist-interface\bin\Debug\net6.0\linklist-interface.dll
+C:\Code_Repositories\linklist-interface\linklist-interface\bin\Debug\net6.0\linklist-interface.pdb
+C:\Code_Repositories\linklist-interface\linklist-interface\obj\Debug\net6.0\linklist-interface.dll
+C:\Code_Repositories\linklist-interface\linklist-interface\obj\Debug\net6.0\refint\linklist-interface.dll
+C:\Code_Repositories\linklist-interface\linklist-interface\obj\Debug\net6.0\linklist-interface.pdb
+C:\Code_Repositories\linklist-interface\linklist-interface\obj\Debug\net6.0\linklist-interface.genruntimeconfig.cache
+C:\Code_Repositories\linklist-interface\linklist-interface\obj\Debug\net6.0\ref\linklist-interface.dll
