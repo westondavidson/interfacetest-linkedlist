@@ -91,7 +91,8 @@ namespace GenericsConsoleApp
                 Node? currentNode = First;
                 if (i == 0)
                 {
-                    root = new Node(value);
+                    currentNode.d = value;
+                    return;
                 }
 
                 while(i > 0)
@@ -109,6 +110,7 @@ namespace GenericsConsoleApp
                     currentNode = currentNode.next;
                     i--;
                 }
+
                 currentNode.d = value;
             }
         
@@ -848,7 +850,16 @@ namespace GenericsConsoleApp
 
         public bool TrueForAll(Predicate<T> match)
         {
-            throw new NotImplementedException();
+            Node currentNode = First;
+            while (currentNode != null)
+            {
+                if (!match(currentNode.d))
+                {
+                    return false;
+                }
+                currentNode = currentNode.next;
+            }
+            return true;
         }
     }
 }
